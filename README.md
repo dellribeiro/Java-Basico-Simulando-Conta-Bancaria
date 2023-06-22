@@ -16,22 +16,22 @@ A conta bancária possui os seguintes atributos:
 Para executar o programa, siga as instruções abaixo:
 
 1. Abra o terminal ou prompt de comando.
-2. Navegue até o diretório do projeto ContaBanco.
+2. Navegue até o diretório `src` do projeto.
 3. Compile os arquivos Java executando o seguinte comando:
 
 ```
 javac ContaTerminal.java
 ```
 
-1. Execute o programa com o seguinte comando:
+4. Execute o programa com o seguinte comando:
 
 ```
 java ContaTerminal
 ```
 
-1. O programa irá solicitar a entrada dos dados via terminal, exibindo mensagens com as informações a serem fornecidas.
-2. Digite os valores solicitados e pressione ENTER para avançar para o próximo campo.
-3. Após fornecer todas as informações, o programa exibirá uma mensagem personalizada com os dados da conta.
+5. O programa irá solicitar a entrada dos dados via terminal, exibindo mensagens com as informações a serem fornecidas.
+6. Digite os valores solicitados e pressione ENTER para avançar para o próximo campo.
+7. Após fornecer todas as informações, o programa exibirá uma mensagem personalizada com os dados da conta.
 
 ## Exemplo de Utilização
 
